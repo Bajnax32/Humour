@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    text-align: justify;
+    width: auto;
+}
+
+nav {
+    text-align: center;
+}
+nav a {
+       color: rgb(75, 7, 7);
+       font-family: 'Times New Roman', Times, serif;
+       
+       
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;
+    text-decoration: underline;
+}
+
+.page1 img {
+    height: 350px;
+    width: 500px;
+    display:block;
+    margin: 0 auto;
+}
